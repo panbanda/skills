@@ -1,0 +1,8 @@
+version: '3'
+
+tasks:
+  update-claude:
+    desc: Update the Claude plugin with latest skills from this repo
+    cmds:
+      - claude plugin marketplace update panda-dev
+      - claude plugin update panda@panda-dev
