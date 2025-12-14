@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "omen": {
+      "command": "omen",
+      "args": ["mcp"]
+    }
+  }
+}
