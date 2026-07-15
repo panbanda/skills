@@ -1,7 +1,7 @@
 {
   "name": "panda",
   "description": "Core skills library for Claude Code: TDD, debugging, collaboration patterns, and proven techniques",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": {
     "name": "Panda",
     "email": "engineering@pandait.com"
@@ -9,5 +9,12 @@
   "homepage": "https://github.com/pandaitinc/skills",
   "repository": "https://github.com/pandaitinc/skills",
   "license": "MIT",
-  "keywords": ["skills", "tdd", "debugging", "collaboration", "best-practices", "workflows"]
+  "keywords": [
+    "skills",
+    "tdd",
+    "debugging",
+    "collaboration",
+    "best-practices",
+    "workflows"
+  ]
 }
